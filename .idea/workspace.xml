@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c40a343-b4cf-4e4a-a49a-687dd445aa26" name="Changes" comment="Uebung10">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe1/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe2/Polstelle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c40a343-b4cf-4e4a-a49a-687dd445aa26" name="Changes" comment="Uebung10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +116,7 @@
       <workItem from="1703065758164" duration="28000" />
       <workItem from="1703088285649" duration="14702000" />
       <workItem from="1704393819877" duration="66000" />
-      <workItem from="1704720176766" duration="3365000" />
+      <workItem from="1704720176766" duration="6259000" />
     </task>
     <task id="LOCAL-00001" summary="Uebung10">
       <option name="closed" value="true" />
